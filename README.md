@@ -8,8 +8,7 @@ Many of my projects are hosted on a different account due to privacy and restric
 - 👨‍💻 **Bachelor's in Computer Science from University of Southern California**
 
 ## Interests
-- 🤖 **Machine Learning**: Large Language Model and related field
-- 🧠 **Artificial Intelligence**: Multi-Agent Path Finding, Computer Vision
+- 🤖 **Machine Learning & Artificial Intelligence **: Large Language Model, Computer Vision, Multi-Agent Path Finding, and related field
 - 🎋 **Algorithm**
 
 ##
