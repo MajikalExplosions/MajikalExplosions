@@ -1,5 +1,5 @@
 ## Hi there 👋, welcome to my personal GitHub!!
-Many of my projects are hosted on a different account due to privacy and various restrictions. The code shared here consists of snippets and projects that I am free to make public.
+Many of my projects are hosted on a different account due to privacy and restrictions. The code shared here consists of snippets and projects that I am free to make public.
 
 ## About Me
 🙋 **I am Joseph Liu** 🙋
