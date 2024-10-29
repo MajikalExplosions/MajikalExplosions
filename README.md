@@ -7,7 +7,7 @@ Notes: Many of my projects are hosted privately on a different account due to re
 🙋 **I am Joseph Liu** 🙋
 
 🎓 **Education**
-- 👨‍💻 **Bachelor's in Computer Science from University of Southern California**
+- 👨‍💻 **Bachelor of Science in Computer Science from University of Southern California**
 
 ## Interests
 - 🤖 **Machine Learning & Artificial Intelligence**: Large Language Model, Computer Vision, Multi-Agent Path Finding, and related field
